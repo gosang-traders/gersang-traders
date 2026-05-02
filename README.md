@@ -1,8 +1,10 @@
-# 고상 트레이더스 (Gorsang Traders)
+# 고상 트레이더스 (Gersang Traders)
 
-![Gorsang Traders](./gersang-traders.png)
+![Gersang Traders](./gersang-traders.png)
 
 족상인의 현대화된 유틸리티.
+
+**고사아앙 맞기 시르면 복귀해라 고사아아앙**
 
 ## 다운로드
 
