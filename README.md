@@ -1,5 +1,7 @@
 # 고상 트레이더스 (Gersang Traders)
 
+[![거리니닷컴](https://img.shields.io/badge/거리니닷컴-gerinee.com-2f6fde?style=for-the-badge)](https://gerinee.com) [![거상 디스코드](https://img.shields.io/badge/거상_디스코드-문의·지원-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gersang)
+
 ![Gersang Traders](./gersang-traders.png)
 
 족상인의 현대화된 유틸리티.
@@ -34,8 +36,3 @@
 ### 2. 고상 트레이더스 실행
 
 [Releases](../../releases)에서 받은 실행 파일을 관리자 권한으로 실행합니다.
-
-## 링크
-
-- [거리니닷컴](https://gerinee.com)
-- [거상 디스코드](https://discord.gg/gersang) (문의 및 지원)
