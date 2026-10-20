@@ -34,3 +34,8 @@
 ### 2. 고상 트레이더스 실행
 
 [Releases](../../releases)에서 받은 실행 파일을 관리자 권한으로 실행합니다.
+
+## 링크
+
+- [거리니닷컴](https://gerinee.com)
+- [거상 디스코드 (문의/지원 채널)](https://discord.gg/gersang)
